@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583160480973",
+    "project_id": "vaccine-8780c",
+    "storage_bucket": "vaccine-8780c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583160480973:android:7c5ad43b86a1276cabd584",
+        "android_client_info": {
+          "package_name": "com.example.hack_athon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583160480973-ct1fn7uiapub0qlr0sg26tk37rojvf7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGW9xNsodzt2jAZGDfsikwElEDEVeZzMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583160480973-ct1fn7uiapub0qlr0sg26tk37rojvf7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

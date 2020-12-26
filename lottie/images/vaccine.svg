@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 128 128" version="1.0">
+  <g id="layer1">
+    <g id="g2908" transform="translate(1.3585 1.3585)">
+      <path id="path2906" fill-rule="evenodd" fill="#f0f" d="m28.058 37.827c-2.773 4.152-4.496 9.969-4.496 17.829v47.184c0 10.45 7.146 18.88 16 18.88h48.157c8.854 0 15.971-8.43 15.971-18.88v-47.184c0.22-6.636-0.78-12.837-3.61-17.575-36.761-0.246-39.941-0.174-72.022-0.254z"/>
+      <path id="rect2312" stroke-linejoin="round" d="m46.013 17.693l0.018 11.401c-11.256-0.24-22.469 6.507-22.469 26.562v47.184c0 10.45 7.146 18.88 16 18.88h48.157c8.854 0 15.971-8.43 15.971-18.88v-47.184c0.48-14.291-4.702-26.562-21.721-26.562v-11.161l-35.956-0.24z" stroke="#000" stroke-linecap="round" stroke-width="6" fill="none"/>
+      <rect id="rect2894" stroke-linejoin="round" fill-rule="evenodd" height="48.923" width="79.182" stroke="#000" stroke-linecap="round" y="55.028" x="24.289" stroke-width="6.0673" fill="#fff"/>
+      <path id="rect2896" stroke-linejoin="round" d="m56.219 62.969v8.75h-8.75v15.781h8.75v8.75h15.781v-8.75h8.781v-15.781h-8.781v-8.75h-15.781z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="4" fill="#f00"/>
+      <rect id="rect2901" stroke-linejoin="round" fill-rule="evenodd" height="16.365" width="45.904" stroke="#000" stroke-linecap="round" y="3.5848" x="41.288" stroke-width="6.6854" fill="#b3b3b3"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Medicine icon</dc:title>
+        <dc:date>2009-03-21T08:53:22</dc:date>
+        <dc:description>bottle, bottle, clip art, clipart, contour, contour, health, health, icon, icon, image, media, medicine, medicine, png, public domain, svg, </dc:description>
+        <dc:source>http://openclipart.org/detail/22708/medicine-icon-by-pitr</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>pitr</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bottle</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>contour</rdf:li>
+            <rdf:li>health</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>medicine</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
