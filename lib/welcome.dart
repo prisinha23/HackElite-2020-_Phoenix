@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
+import 'login.dart';
 
 class WelcomeScreen extends StatefulWidget {
   @override
@@ -35,7 +36,11 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(30.0),
                 child: MaterialButton(
-                  onPressed; (){},
+                  onPressed: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => Login()),
+                    //Go to login screen.
+                  ),
                   minWidth: 200.0,
                   height: 42.0,
                   child: Text(
@@ -51,7 +56,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 borderRadius: BorderRadius.circular(30.0),
                 elevation: 5.0,
                 child: MaterialButton(
-                  onPressed; (){},
+		  onPressed: (){},
                   minWidth: 200.0,
                   height: 42.0,
                   child: Text(
