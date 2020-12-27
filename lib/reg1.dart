@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:hack_athon/profilefolder/dashboard.dart';
 
 class Reg1 extends StatefulWidget {
   @override
@@ -198,8 +199,13 @@ class _Reg1State extends State<Reg1> {
                                     content: Text(
                                         ' Name:$_name \n Age:$_age \n Place:$_place'),
                                     actions: <Widget>[
-                                      FlatButton(
-					onPressed: (){},
+                                      FlatButton( onPressed: () {
+                                          Navigator.push(
+                                              context,
+                                              MaterialPageRoute(
+                                                  builder: (context) =>
+                                                      Dashboard()));
+                                        },
                                         child: Text('I Am Ready'),
                                       )
                                     ],

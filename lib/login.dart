@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:hack_athon/database/getvalue.dart';
+import 'package:hack_athon/profilefolder/dashboard.dart';
 
 class Login extends StatelessWidget {
   final _formkey = GlobalKey<FormState>();
@@ -101,8 +102,13 @@ class Login extends StatelessWidget {
                                           content: Text(
                                               'Welcome to Covac For Vaccine Distribution'),
                                           actions: <Widget>[
-                                            FlatButton(
-					      onPressed: (){},
+                                            FlatButton( onPressed: () {
+                                                Navigator.push(
+                                                    context,
+                                                    MaterialPageRoute(
+                                                        builder: (context) =>
+                                                            Dashboard()));
+                                              },
                                               child: Text('Continue'),
                                             )
                                           ],
