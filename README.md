@@ -12,7 +12,7 @@
 ![WhatsApp Image 2021-06-29 at 11 22 15 PM-1](https://user-images.githubusercontent.com/51755338/123846237-bb5da200-d932-11eb-94b2-0cf887ca0a18.jpeg)
 # hack_athon
 
-A Flutter Project Based on the Vaccine Distribution system that helps the user get their vaccine 
+A Flutter project Based on the Vaccine Distribution system that helps the user get their vaccine 
 by assigning  them the exact date based on their priority number.
 The priority number is given on the basis of age and medical conditions.
 It makes whole vaccination process hassle free.
